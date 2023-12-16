@@ -8,7 +8,7 @@ This repository contains code implementing a Long Short-Term Memory (LSTM) neura
 4. Visualization tools for analyzing model performance.
 
 ## How to Use:
-1. Ensure you have the required dependencies installed, please refe to the requirements.txt file.
+1. Ensure you have the required dependencies installed, please refer to the "requirements.txt" file.
 2. Refer the following .ipynb file "LSTM-Demand-Forecasting.ipynb" for the code and details on how to the code works.
 3. Preprocess your time series data, try using different values for lookback.
 4. Train the LSTM model using the provided scripts, try modifying the layers.
